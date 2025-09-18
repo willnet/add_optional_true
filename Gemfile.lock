@@ -10,8 +10,6 @@ GEM
 
 PLATFORMS
   arm64-darwin-22
-  arm64-darwin-24
-  arm64-darwin-25
 
 DEPENDENCIES
   minitest
