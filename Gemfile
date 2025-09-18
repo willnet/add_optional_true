@@ -6,3 +6,4 @@ source "https://rubygems.org"
 
 gem "parser", "~> 3.2"
 gem "minitest"
+gem "rake"

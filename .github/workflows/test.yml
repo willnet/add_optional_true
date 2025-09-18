@@ -23,5 +23,4 @@ jobs:
           bundler-cache: true
 
       - name: Run tests
-        run: |
-          bundle exec ruby -Itest test/test_add_optional_true.rb
+        run: bundle exec rake
