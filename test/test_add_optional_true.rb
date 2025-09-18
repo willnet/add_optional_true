@@ -1,5 +1,5 @@
 require "minitest/autorun"
-require_relative "add_optional_true"
+require_relative "../lib/add_optional_true"
 
 class TestAddOptionalTrue < Minitest::Test
   SAMPLE = <<~EOF

@@ -10,5 +10,5 @@ In Rails 5.0, a setting called `config.active_record.belongs_to_required_by_defa
 git clone https://github.com/willnet/add_optional_true.git
 cd add_optional_true
 bundle install
-bundle exec ruby-rewrite -l add_optional_true.rb -m your_ruby_file_or_directory
+bundle exec ruby-rewrite -l lib/add_optional_true.rb -m your_ruby_file_or_directory
 ```
